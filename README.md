@@ -133,5 +133,7 @@ output "external_ip_address_vm_1" {
 ![image](https://github.com/user-attachments/assets/0045e74c-3b52-42c1-a33c-1bd4303edf46)
 ![image](https://github.com/user-attachments/assets/9a2ad050-accc-4990-84ef-8c5a14a70644)
 ![image](https://github.com/user-attachments/assets/885c22a7-fe78-4a25-b7bb-9a2063e5a4ae)
-![image](https://github.com/user-attachments/assets/d02f1b36-01ce-454c-a772-50588a3f101d)
+![image](https://github.com/user-attachments/assets/3fc749fe-10f9-4b92-8db1-3b9211aaa49a)
+![image](https://github.com/user-attachments/assets/4cf0f3fc-acfc-4e18-b5a0-a99bf9dbde9e)
+
 
